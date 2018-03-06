@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One');
+
+.header
+{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.register
+{
+    margin-left: 90%;
+}
+
+
+.btn-header
+{
+    background-color: red;
+    color: white;
+    width: 120px;
+}
+
+.btn-header:hover
+{
+    background-color: white;
+    color: red;
+    width: 120px;
+}
+
+.btn-search
+{
+    color:red;
+}
+
+.register a:link
+{
+    color: white;
+}
+
+.register a:visited
+{
+    color: white;
+}
+
+.register a:hover
+{
+    color: white;
+}
+
+.search-bar
+{
+    width: 30%;
+}
+
+.dropdown-menu
+{
+    left: 25%;
+}
+
+.logo
+{
+    font-family : "Leckerli One", cursive;
+    color: white !important;
+}

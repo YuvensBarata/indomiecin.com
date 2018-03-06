@@ -1,0 +1,5 @@
+[
+    {"id" : 1, "name" : "Mie Goreng", "img" : "images/gorengayambawang.png", "link" : "/miegoreng"},
+    {"id" : 2, "name" : "Mie Kuah", "img" : "images/kuahayamspesial.png", "link" : "/miekuah"},
+    {"id" : 3, "name" : "Mie Real Meat", "img" : "images/meatrendang.png", "link" : "/mierealmeat"}
+]

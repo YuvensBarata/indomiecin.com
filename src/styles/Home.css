@@ -1,0 +1,76 @@
+.carousel-control 
+{
+    background: none !important;
+    color: red;
+}
+
+.ourProduct
+{
+    list-style-type: none;
+}
+
+#listProduk
+{
+    margin: 15px;
+}
+
+.productImgHome
+{
+    width: 240px;
+    height: 200px;
+    margin: 10px;
+}
+
+.panel
+{
+    border: 2px solid red;
+}
+
+.label
+{
+    color: black;
+}
+
+.btn-buy
+{
+    background-color: red;
+    color: white;
+    margin: 5px;
+    width: 150px;
+}
+
+.btn-buy:hover
+{
+    -webkit-box-shadow:inset 0px 0px 0px 2px red;
+    -moz-box-shadow:inset 0px 0px 0px 2px red;
+    box-shadow:inset 0px 0px 0px 2px red;
+    background-color: white;
+    color: red;
+}
+
+.panel
+{
+    padding: 0 !important;
+}
+
+.panel-heading
+{
+    background: red !important;
+    color: white !important;
+    margin: 0 !important;
+}
+
+.gambar-carousel > .item
+{
+    height: 400px;
+}
+
+.gambar-carousel img
+{
+   width : 100%;
+}
+
+.carousel
+{
+    margin-bottom: -25px;
+}

@@ -1,0 +1,25 @@
+.panel
+{
+    margin-top: 5%;
+}
+
+.btn-login
+{
+    background-color: red;
+    color: white;
+    width: 150px;
+}
+
+.btn-login:hover
+{
+    background-color: white;
+    color: red;
+    -webkit-box-shadow:inset 0px 0px 0px 2px red;
+    -moz-box-shadow:inset 0px 0px 0px 2px red;
+    box-shadow:inset 0px 0px 0px 2px red;
+}
+
+.form-control:focus
+{
+    border: 2px solid red;
+}

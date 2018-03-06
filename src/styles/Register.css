@@ -1,0 +1,20 @@
+.panel
+{
+    margin-top: 5%;
+}
+
+.btn-reg
+{
+    background-color: red;
+    color: white;
+    width: 150px;
+}
+
+.btn-reg:hover
+{
+    -webkit-box-shadow:inset 0px 0px 0px 2px red;
+    -moz-box-shadow:inset 0px 0px 0px 2px red;
+    box-shadow:inset 0px 0px 0px 2px red;
+    background-color: white;
+    color: red;
+}
